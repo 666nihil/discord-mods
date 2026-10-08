@@ -1,0 +1,7 @@
+{
+  "name": "HomeroRingtone",
+  "description": "Replaces Discord's incoming and outgoing call ringtone with a custom Homero ringtone loaded from a URL you set in the plugin settings.",
+  "authors": [{ "name": "fr431532", "id": "0" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_notification_settings" }
+}

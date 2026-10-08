@@ -1,0 +1,153 @@
+{
+  "name": "Minecraft",
+  "description": "Minecraft-inspired dark theme: stone greys, grass green, diamond and gold accents.",
+  "authors": [
+    {
+      "name": "fr431532",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#262626"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1d1d1d"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1d1d1d"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#141414"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#3f3f3f"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#333333"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#262626"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1d1d1d"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#333333"
+    ],
+    "CHAT_BACKGROUND": [
+      "#262626"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#5cb83a1f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#5cb83a33"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#5cb83a40"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#ffffff14"
+    ],
+    "TEXT_NORMAL": [
+      "#f0f0f0"
+    ],
+    "TEXT_MUTED": [
+      "#a0a0a0"
+    ],
+    "TEXT_LINK": [
+      "#4aedd9"
+    ],
+    "TEXT_BRAND": [
+      "#5cb83a"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#a0a0a0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#a0a0a0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#6b6b6b"
+    ],
+    "MENTION_BACKGROUND": [
+      "#4aedd92e"
+    ],
+    "MENTION_FOREGROUND": [
+      "#4aedd9"
+    ],
+    "STATUS_POSITIVE": [
+      "#5cb83a"
+    ],
+    "STATUS_WARNING": [
+      "#ffaa00"
+    ],
+    "STATUS_DANGER": [
+      "#e03131"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#7a7a7a"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#3d8a24"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#5cb83a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#6b6b6b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#7d86d6"
+    ],
+    "BG_BACKDROP": [
+      "#000000b3"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#262626"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#1d1d1d"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#141414"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#333333"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#3f3f3f"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#3f3f3f"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#5cb83a",
+    "BRAND_360": "#5cb83a",
+    "BRAND_460": "#3d8a24",
+    "BRAND_530": "#3d8a24",
+    "BRAND_560": "#3d8a24",
+    "BRAND_600": "#3d8a24"
+  },
+  "spec": 2
+}
